@@ -1,6 +1,8 @@
 # Material-UI Demo Website 
 ### [Live Site](https://mywebsitedemo-md.netlify.app/)
 
+![My Website](https://ibb.co/2W8SFLv)
+
 ## Introduction
 In this project, I created a demo-website’s home page using React. The website is based on a components library Material-UI and was created with an emphasis on responsive design. The website includes simple animations and uses React-Scroll to improve scrolling effects.
 
